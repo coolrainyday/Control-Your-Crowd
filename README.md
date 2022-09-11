@@ -43,6 +43,7 @@ needs to monitor influx of visitors.
 
 
 Useful links:
+* [GitHub Page](https://coolrainyday.github.io/Control-Your-Crowd/)
 * [User Guide](docs/UserGuide.md)
 * [Developer Guide](docs/DeveloperGuide.md)
 * [About Us](docs/AboutUs.md)
